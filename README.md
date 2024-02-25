@@ -95,9 +95,6 @@ You can check the details of the report and the witness comments on the report.
 | **1) Written missing person reports** <br/> <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/3e310d68-9b08-414e-8a9c-0b05dde671f1" width="250"/>    | You can check and delete the missing person reports you have written.                                                                                                                                                                                                        |
 | **2) Written witness comments** <br/> <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/ac6377ad-e7d5-40ec-a974-18a519cf7c75" width="250"/>          | You can check and delete the witness comments you have written.                                                                                                                                                                                                              |
 | **3) bookmarked missing person reports** <br/> <img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/76986589/3be56a43-b421-4959-976e-347581ed6b6d" width="250"/> | You can check the bookmarked missing person reports.                                                                                                                                                                                                                         |
-
-## 👯‍♀️ People of IRIS
-=======
 <br/>
 
 ## 👯‍♀️  People of IRIS
