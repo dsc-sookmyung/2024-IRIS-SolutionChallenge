@@ -38,5 +38,5 @@ Goal 16: Peace, Justice and Strong Institutions
 ## 👯‍♀️  People of IRIS
 |Name|[김희서]() <br/> (Heeseo Kim)|[이주은](https://github.com/lizuAg) <br/> (Jueun Lee)|[이혜린]() <br/> (Hyerin Lee)|[최예나]() <br/> (Yena Choi)|
 |:---:|---|---|---|---|
-|Role|- Deploy spring server with GCP Virtual Machine<br/>- Manage MySql DB with GCP SQL<br/>- Server APIs|- Deploy spring server with GCP Virtual Machine<br/>- Manage MySql DB with GCP SQL<br/>- Server APIs|- Deploy spring server with GCP Virtual Machine<br/>- Manage MySql DB with GCP SQL<br/>- Server APIs|- Deploy spring server with GCP Virtual Machine<br/>- Manage MySql DB with GCP SQL<br/>- Server APIs|
+|Role|- Deploy spring server with GCP Virtual Machine<br/>- Manage MySql DB with GCP SQL<br/>- Server APIs|- Deploy spring server with GCP Virtual Machine<br/>- Manage MySql DB with GCP SQL<br/>- Server APIs|- Deploy FastAPI with GCP virtual machine<br/>- Calculate similarity between faces<br/>- Generate clothing image<br/>- Train models to face detection and verification |- Deploy spring server with GCP Virtual Machine<br/>- Manage MySql DB with GCP SQL<br/>- Server APIs|
 |GitHub<br/>Repository|[<img src="https://github.com/lizuAg.png">](https://github.com/lizuAg)|<img src="https://github.com/lizuAg.png">|<img src="https://github.com/lizuAg.png">|<img src="https://github.com/lizuAg.png">|
