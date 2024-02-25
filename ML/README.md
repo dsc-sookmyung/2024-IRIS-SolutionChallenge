@@ -1,4 +1,6 @@
 # Missing You-ML
+### 💡2024 GDSC Solution Challenge
+Team Iris's ML Repository
 
 ## Installation
 ### environment
