@@ -295,7 +295,7 @@ You can check the details of the report and the witness comments on the report.
 </table><br/>    
 
 ## 👯‍♀️  People of IRIS
-|Name|[김희서](https://github.com/hap6v6) <br/> (Heeseo Kim)|[이주은](https://github.com/lizuAg) <br/> (Jueun Lee)|[이혜린]() <br/> (Hyerin Lee)|[최예나]() <br/> (Yena Choi)|
+|Name|[김희서](https://github.com/hap6v6) <br/> (Heeseo Kim)|[이주은](https://github.com/lizuAg) <br/> (Jueun Lee)|[이혜린](https://github.com/2hyerin) <br/> (Hyerin Lee)|[최예나]() <br/> (Yena Choi)|
 |:---:|---|---|---|---|
 |Role|- Deploy spring server with GCP Virtual Machine<br/>- Manage MySql DB with GCP SQL<br/>- Server APIs|- Deploy spring server with GCP Virtual Machine<br/>- Manage MySql DB with GCP SQL<br/>- Server APIs|- Deploy FastAPI with GCP virtual machine<br/>- Calculate similarity between faces<br/>- Generate clothing image<br/>- Train models to face detection and verification |- Deploy spring server with GCP Virtual Machine<br/>- Manage MySql DB with GCP SQL<br/>- Server APIs|
-|GitHub<br/>Repository|[<img src="https://avatars.githubusercontent.com/u/76986589?v=4">](https://github.com/lizuAg)|<img src="https://github.com/lizuAg.png">|<img src="https://github.com/lizuAg.png">|<img src="https://github.com/lizuAg.png">|
+|GitHub<br/>Repository|[<img src="https://avatars.githubusercontent.com/u/76986589?v=4">](https://github.com/lizuAg)|<img src="https://github.com/lizuAg.png">|[<img src="https://github.com/dsc-sookmyung/2024-IRIS-SolutionChallenge/assets/88357058/e24a0b1d-232f-474e-8135-f14fcb9397ea">](https://github.com/2hyerin)|<img src="https://github.com/lizuAg.png">|
