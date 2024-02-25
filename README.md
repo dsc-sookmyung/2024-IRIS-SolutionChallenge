@@ -26,6 +26,7 @@ Goal 16: Peace, Justice and Strong Institutions
 <br/>
 
 ## 🪄 How to run MissingYou
+- [Clike here, and download "app-release.apk"](https://drive.google.com/drive/folders/1bLgtt6Rjo8g86pfaS9yHW5ZoNOGut2EZ)
 
 <br/>
 
